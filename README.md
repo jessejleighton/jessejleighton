@@ -4,10 +4,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Developer GIF" width="60%">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejleighton&label=Profile%20views&color=0e75b6&style=flat" alt="jessejleighton" /> </p>
 
 ### Computer Science Student at Green River College
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejleighton&label=Profile%20views&color=0e75b6&style=flat" alt="jessejleighton" /> </p>
 
 - 🔭 I’m currently working on a personal project called **Project Portfolio**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
